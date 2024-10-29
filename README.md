@@ -25,6 +25,7 @@ A decentralized platform for media authenticity certification using blockchain t
 [Demo](https://truth-lens-seven.vercel.app/) • [Video Demo](https://youtu.be/FxrX2hmo0dc) • [Documentation](#documentation) • [Quick Start](#quick-start)
 
 </div>
+
 ## 📑 Table of Contents
 
 - [Overview](#overview)
@@ -35,7 +36,6 @@ A decentralized platform for media authenticity certification using blockchain t
 - [Installation Guide](#installation-guide)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Contributing](#contributing)
 - [Team](#team)
 - [Acknowledgments](#acknowledgments)
 
@@ -249,7 +249,7 @@ interface ITruthLensNFT {
 
 ## Team
 
-### Team U_One
+### Team UOne
 - **Roshan George** - Full Stack Developer & Team Lead
 - **Karthickeien E** - Full Stack Developer & AI - ML Engineer 
 - **Mohammed Faheem** - AI - ML Engineer & Blockchain Specialist
