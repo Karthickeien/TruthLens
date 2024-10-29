@@ -251,7 +251,7 @@ interface ITruthLensNFT {
 
 ### Team UOne
 - **Roshan George** - Full Stack Developer & Team Lead
-- **Karthickeien E** - Full Stack Developer & AI - ML Engineer 
+- **Karthickeien Elangovan** - Full Stack Developer & AI - ML Engineer 
 - **Mohammed Faheem** - AI - ML Engineer & Blockchain Specialist
 
 
