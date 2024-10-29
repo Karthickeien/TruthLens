@@ -259,7 +259,7 @@ interface ITruthLensNFT {
 
 - **Event:** Crypto Shield Hackathon 2024
 - **Organizer:** Amrita Cyber Nation
-- **Project Submission:** [Devfolio](https://devfolio.co/projects/truthlens-b285)
+- **Project Submission:** [Devfolio](https://devfolio.co/projects/truthlens-cc6b)
 
 ## Resources
 
