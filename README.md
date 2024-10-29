@@ -274,4 +274,3 @@ interface ITruthLensNFT {
 Made with ❤️ by Team UOne
 
 [Report Bug](https://github.com/Karthickeien/TruthLens/issues) • [Request Feature](https://github.com/Karthickeien/TruthLens/issues)
-</div>
