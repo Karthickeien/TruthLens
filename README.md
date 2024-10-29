@@ -8,13 +8,23 @@
 [![Machine Learning](https://img.shields.io/badge/ML-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
+[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui)](https://mui.com/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)](https://redux.js.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)](https://vercel.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
+[![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js)](https://web3js.org/)
+[![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs)](https://ipfs.io/)
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)](https://soliditylang.org/)
 
 A decentralized platform for media authenticity certification using blockchain technology and AI-powered verification.
 
 [Demo](https://truth-lens-seven.vercel.app/) • [Video Demo](https://youtu.be/FxrX2hmo0dc) • [Documentation](#documentation) • [Quick Start](#quick-start)
 
 </div>
-
 ## 📑 Table of Contents
 
 - [Overview](#overview)
@@ -126,7 +136,7 @@ graph TB
 ### Frontend Setup
 ```bash
 # Clone repository
-git clone https://github.com/roshangeorge97/TruthLens
+git clone https://github.com/Karthickeien/TruthLens.git
 cd TruthLens
 
 # Install dependencies
@@ -241,19 +251,9 @@ interface ITruthLensNFT {
 
 ### Team U_One
 - **Roshan George** - Full Stack Developer & Team Lead
-  - Architecture Design
-  - Smart Contract Development
-  - Frontend Implementation
+- **Karthickeien E** - Full Stack Developer & AI - ML Engineer 
+- **Mohammed Faheem** - AI - ML Engineer & Blockchain Specialist
 
-- **Mohammed Faheem** - Blockchain Specialist
-  - Smart Contract Architecture
-  - Web3 Integration
-  - Security Implementation
-
-- **Karthickeien E** - ML Engineer
-  - Model Development
-  - Data Pipeline
-  - Analysis Framework
 
 ## Acknowledgments
 
@@ -273,5 +273,5 @@ interface ITruthLensNFT {
 <div align="center">
 Made with ❤️ by Team UOne
 
-[Report Bug](https://github.com/roshangeorge97/TruthLens/issues) • [Request Feature](https://github.com/roshangeorge97/TruthLens/issues)
+[Report Bug](https://github.com/Karthickeien/TruthLens/issues) • [Request Feature](https://github.com/Karthickeien/TruthLens/issues)
 </div>
