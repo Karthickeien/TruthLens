@@ -1,0 +1,115 @@
+.nav {
+  width: 100%;
+  height: 100px;
+  padding: 20px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 999;
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: #fff;
+
+    .col {
+      color: var(--primary);
+    }
+    img {
+      width: 30px;
+      margin-right: 10px;
+    }
+  }
+  .cssbuttons-io-button {
+    display: flex;
+    align-items: center;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 1em 1.5em 1em 1.2em;
+    color: white;
+    background: #ad5389;
+    background: linear-gradient(
+      0deg,
+      rgb(47, 201, 91) 0%,
+      rgb(40, 182, 54) 100%
+    );
+    border: none;
+    box-shadow: 0 0.7em 1.5em -0.5em #2e8b57;
+    letter-spacing: 0.05em;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .cssbuttons-io-button svg {
+    margin-right: 8px;
+  }
+
+  .cssbuttons-io-button:hover {
+    box-shadow: 0 0.5em 1.5em -0.5em #2e8b57;
+  }
+
+  .cssbuttons-io-button:active {
+    box-shadow: 0 0.3em 1em -0.5em #2e8b57;
+  }
+
+  .wallet {
+    display: flex;
+    font-size: 14px;
+    gap: 10px;
+    align-items: center;
+    color: #fff;
+  }
+}
+
+.navlinks {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+
+  li {
+    list-style: none;
+  }
+}
+
+.nav-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+@media (max-width: 740px) {
+  .nav {
+    padding: 20px;
+    margin-top: -20px;
+  }
+  .navlinks {
+    font-size: 12px;
+    gap: 10px;
+  }
+  .nav {
+    .wallet {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 420px) {
+  .cssbuttons-io-button{
+    font-size: 12px;
+    padding: 4px;
+  }
+  .navlinks {
+    font-size: 10px;
+    gap: 10px;
+  }
+}

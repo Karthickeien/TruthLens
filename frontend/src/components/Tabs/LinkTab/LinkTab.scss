@@ -1,0 +1,129 @@
+.grp-v {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .card-v {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 320px;
+    gap: 20px;
+    border-radius: 8px;
+    border: 1px solid #a8d5a8;
+    padding: 10px;
+    text-align: left;
+    background-color: #f0fff0;
+  }
+  
+  .i-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .i-head {
+    font-size: 14px;
+    color: #2e8b57;
+  }
+  
+  .grp-p {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .i-price {
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    gap: 20px;
+    border-radius: 8px;
+    border: 1px solid #a8d5a8;
+    padding: 10px;
+    text-align: left;
+    background-color: #e6ffe6;
+  }
+  
+  .input-price {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: none;
+    overflow-x: auto;
+    color: #006400;
+    text-align: left;
+    background-color: transparent;
+  }
+  
+  .plat-fee {
+    width: 100%;
+    max-width: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    gap: 20px;
+    border-radius: 8px;
+    border: 1px solid #2e8b57;
+    padding: 10px;
+    text-align: center;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  
+    &:hover {
+      background-color: #45a049;
+    }
+  
+    &.loading {
+      background-color: #8fbc8f;
+      cursor: not-allowed;
+    }
+  }
+  
+  .total {
+    height: 40px;
+    background: var(--fade);
+  
+    input {
+      background-color: transparent;
+      color: #006400;
+    }
+  }
+  
+  .error-message {
+    color: #ff6347;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  
+  .result-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 10px;
+  }
+  
+  .result-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: transform 0.3s;
+  
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  .icon {
+    width: 20px;
+    height: 20px;
+    fill: #2e8b57;
+  }
